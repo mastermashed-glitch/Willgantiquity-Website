@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-11-13T15:05:58.925Z",
+  "exportedAt": "2026-11-13T15:07:20.937Z",
   "siteTheme": {
     "primary": "#122019",
     "secondary": "#1B2E24",
@@ -85,7 +85,8 @@
     "heroSourcingBtn": "Request Custom Sourcing / Inquire",
     "ethosCard1Desc": "When beneficial, a good cleaning with mineral spirits, ultra sonic bath, and or delicate paint stripping apply",
     "ethosCard2Desc": "Mortise locks, Architectual Salvage, lamps, etc are all inspected, rewired or lubricated on most pieces. Vintage electronics are verified working before being listed unless specified otherwise",
-    "ethosCard3Desc": "I like to preserve original warm age patina and style while protecting surfaces for decades to come—using hand applied clear wax, linseed oils, and appropriate oil based rust preventatives."
+    "ethosCard3Desc": "I like to preserve original warm age patina and style while protecting surfaces for decades to come—using hand applied clear wax, linseed oils, and appropriate oil based rust preventatives.",
+    "footerRightsText": "All Rights Reserved."
   },
   "categories": [
     "Architectural Hardware",
