@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-11-20T14:15:41.811Z",
+  "exportedAt": "2026-11-20T14:40:57.732Z",
   "siteTheme": {
     "primary": "#122019",
     "secondary": "#1B2E24",
@@ -299,5 +299,6 @@
       ],
       "createdAt": 1710000004
     }
-  ]
+  ],
+  "ownerVault": ""
 }
