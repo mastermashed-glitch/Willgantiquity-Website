@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-11-23T15:15:43.504Z",
+  "exportedAt": "2026-11-23T15:26:02.012Z",
   "siteTheme": {
     "primary": "#122019",
     "secondary": "#1B2E24",
@@ -15,9 +15,9 @@
     "name": "Willgantiquity Store",
     "tagline": "Antiques, Vintage, Architectural Salvage & Restoration",
     "about": "Every piece in my showroom ranges from antique & vintage household items to ecclectic collectors pieces and everything in-between. Check back for new finds and follow along for updates on inventory @willgantiquity and eBay links found below.",
-    "announcement": "",
-    "localSaleEnabled": false,
-    "localSaleDate": "",
+    "announcement": "Inquire with me for 25% off eBay store this week!",
+    "localSaleEnabled": true,
+    "localSaleDate": "Welcome to the Willgantiquity site launch! 25% off all categories until 11/30",
     "localSaleLocation": "",
     "email": "willgantiquity@gmail.com",
     "phone": "856-492-3706",
@@ -99,7 +99,36 @@
     "Art",
     "Kitchen"
   ],
-  "categorySales": {},
+  "categorySales": {
+    "Architectural Hardware": {
+      "type": "percent",
+      "value": 25
+    },
+    "Furniture & Woodwork": {
+      "type": "percent",
+      "value": 25
+    },
+    "Lighting & Lamps": {
+      "type": "percent",
+      "value": 25
+    },
+    "Cast Iron & Metalware": {
+      "type": "percent",
+      "value": 25
+    },
+    "Glassware & Collectibles": {
+      "type": "percent",
+      "value": 25
+    },
+    "Art": {
+      "type": "percent",
+      "value": 25
+    },
+    "Kitchen": {
+      "type": "percent",
+      "value": 25
+    }
+  },
   "products": [
     {
       "id": "item-1794769677357",
