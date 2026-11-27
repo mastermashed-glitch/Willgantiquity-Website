@@ -1,5 +1,6 @@
 {
-  "exportedAt": "2026-11-23T15:31:00.365Z",
+  "exportedAt": "2026-11-27T02:03:35.424Z",
+  "localModifiedAt": 1795745015402,
   "siteTheme": {
     "primary": "#122019",
     "secondary": "#1B2E24",
@@ -16,8 +17,8 @@
     "tagline": "Antiques, Vintage, Architectural Salvage & Restoration",
     "about": "Every piece in my showroom ranges from antique & vintage household items to ecclectic collectors pieces and everything in-between. Check back for new finds and follow along for updates on inventory @willgantiquity and eBay links found below.",
     "announcement": "Inquire with me for 25% off eBay store this week!",
-    "localSaleEnabled": true,
-    "localSaleDate": "Welcome to the Willgantiquity site launch! 25% off all categories until 11/30",
+    "localSaleEnabled": false,
+    "localSaleDate": "",
     "localSaleLocation": "",
     "email": "willgantiquity@gmail.com",
     "phone": "856-492-3706",
@@ -90,6 +91,7 @@
     "emptyStateDesc": "We couldn't find any items matching your current filter or search criteria. Try resetting your filters or inquiring about custom sourcing.",
     "newsletterBtnLabel": "Join Newsletter for New Arrivals"
   },
+  "customAlignments": {},
   "categories": [
     "Architectural Hardware",
     "Furniture & Woodwork",
@@ -329,5 +331,5 @@
       "createdAt": 1710000004
     }
   ],
-  "ownerVault": ""
+  "ownerVault": "{\"v\":2,\"alg\":\"AES-256-GCM\",\"salt\":\"rJZX68cUDZTVma3ACpMWpw==\",\"iv\":\"CaBMj5d8I9NCYHg+\",\"ct\":\"D3m5GErqTXbx1uCAMnAcL1i+kJajatlYhq9fdgHaZfyCkEkLVqmwnfcB/V/m+1Fv2GFR/PTXOBJxzBYlPT5esP6dBcLBn2+5JkTE60g4lZQcM8JKUB1U36EQi2KvnIXTijdW4A==\"}"
 }
